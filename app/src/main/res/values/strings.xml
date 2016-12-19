@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendSensordata</string>
+    <string name="hello">Send accelerometer data to server</string>
+    <string name="send">Send data to server</string>
+</resources>
